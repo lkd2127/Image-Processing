@@ -1,4 +1,5 @@
-Introduction
+**Introduction**
+
 The report evaluates several modeling approaches for classifying fashion product images to support marketing-related information gathering. The project aims to reduce sample size and processing time while preserving high classification accuracy, thus optimizing costly and time-intensive models. Furthermore, the findings are expected to offer insights and recommendations for enhancing the company’s data infrastructure, tailored to the unique characteristics of the data in use.
 
 The techniques employed in this development was Neural Networks (h20 library).
